@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="D:/works/Andriod/workspace/qqsuperrob3/libs/galaxy-v2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/works/Andriod/workspace/qqsuperrob3/libs/com.baidu.tts_2.2.9.20161020_154fa02_release.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/works/Andriod/workspace/qqsuperrob3/lib/XposedBridgeApi-54.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/works/Andriod/workspace/qqsuperrob3/libs/ftp4j-1.7.2.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
